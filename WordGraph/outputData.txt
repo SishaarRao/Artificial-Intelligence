@@ -1,0 +1,22 @@
+0   1570
+1   1070
+2   691
+3   430
+4   371
+5   247
+6   206
+7   155
+8   96
+9   60
+10   37
+11   18
+12   12
+13   3
+basted   ['fasted', 'lasted', 'masted', 'pasted', 'tasted', 'wasted', 'baited', 'bashed', 'basked', 'bastes', 'batted', 'bested', 'busted']
+masted   ['basted', 'fasted', 'lasted', 'pasted', 'tasted', 'wasted', 'malted', 'mashed', 'masked', 'massed', 'master', 'matted', 'misted']
+shares   ['scares', 'shades', 'shakes', 'shames', 'shapes', 'shared', 'sharer', 'sharks', 'shaves', 'shores', 'snares', 'spares', 'stares']
+14   3
+batter   ['fatter', 'latter', 'matter', 'patter', 'tatter', 'baiter', 'banter', 'barter', 'bather', 'batted', 'batten', 'better', 'bitter', 'butter']
+seared   ['feared', 'geared', 'neared', 'reared', 'teared', 'scared', 'sealed', 'seamed', 'seated', 'shared', 'snared', 'soared', 'spared', 'stared']
+stared   ['scared', 'seared', 'shared', 'snared', 'soared', 'spared', 'staged', 'staked', 'starer', 'stares', 'stated', 'staved', 'stayed', 'stored']
+15   0
