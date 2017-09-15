@@ -3,7 +3,7 @@ import random
 import time
 def main():
     board = []
-    count = 30
+    count = 10
     totalTime = 0
     for n in range(0, 1):
         board = []
